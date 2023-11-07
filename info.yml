@@ -1,5 +1,5 @@
 project:
-  name: 'andres repo 2'
+  name: 'andres repo lol'
   owner: 'mk-test2'
   teamId: 'mk-21'
   identities: {}
@@ -14,7 +14,3 @@ project:
       name: 'Andres'
       surname: 'Domínguez' 
       githubUsername: 'andresdominguezruiz'
-
-
-
-
