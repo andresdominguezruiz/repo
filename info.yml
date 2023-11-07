@@ -1,7 +1,7 @@
 project:
   name: 'andres-repo-lol-dash'
-  owner: 'mk-test2'
-  teamId: 'mk-21'
+  owner: 'mktest2'
+  teamId: '21'
   identities: {}
   notifications:
     slack_enc: U2FsdGVkX1/eJiQcpturJ3K0BOCBvpzJJFqfalYXmKnkYqJhA1h/De5Qv8BYlxqnaqHG+QvBc6QHeFHFns98RFcLrUQ3dQsqKZdcup/2Oy6fp6+LSTWm6mfBamRiiTlT98x6AaI3BVuFSU+y4LENxQ==
