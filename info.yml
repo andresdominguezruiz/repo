@@ -10,11 +10,8 @@ project:
       name: 'Manuel'
       surname: 'Otero' 
       githubUsername: 'motero2k'
-      pivotalUsername: 'governifyauditor'
-      herokuEmail: 'governify.auditor@gmail.com'
     member2:
       name: 'Andres'
       surname: 'Domínguez' 
       githubUsername: 'andresdominguezruiz'
       pivotalUsername: 'governifyauditor'
-      herokuEmail: 'governify.auditor@gmail.com'
